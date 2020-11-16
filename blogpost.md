@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Полный список всех солнечных затмений 21 века с картами затмений"
-tags: [систематизаци]
+tags: [систематизация]
 permalink: sun-eclipses
 description: "Можно узнать когда в вашем городе будет следующее солнечное или лучнное затмение."
 image: submodules/sun-eclipses/images/14.png
